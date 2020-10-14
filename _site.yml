@@ -4,9 +4,31 @@ description: |
   My Website
 output_dir: "docs"
 navbar:
+  search: true
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
-output: distill::distill_article
+      
+    - text: "Education"
+      href: education.html
+      
+    - text: "Publication"
+      href: publication.html
+      
+    - text: "Presentations & Talks"
+    - menu:
+        - text: "Oral Presentations/ Invited Talks"
+          href: talk.html
+        - text: "Posters/ Peer-reviewed Abstracts"
+          href: poster.html
+          
+    - text: "Teaching"
+    - menu:
+        - text: "Teaching Experience"
+          href: teaching.html
+        - text: "Students' Feedback"
+          href: student.html
+output: 
+  distill::distill_article:
+    css: style.css
+

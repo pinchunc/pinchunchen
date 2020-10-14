@@ -1,0 +1,42 @@
+---
+title: "Teaching Experience"
+description:
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Division in Teaching Excellence and Innovation (DTEI), UC Irvine
+#### DTEI Graduate Fellow, 2020-2021
+Psych Fundamentals, Summer 2020, with Dr. Megan Peters & Dr. Mike D’Zmura
+
+### Department of Statistics, UC Irvine                                       
+#### Lab Instructor/ Teaching Assistant
+Basic Statistics, Winter 2020, with Dr. Lee Kucera
+
+Introduction to Biostatistics, Spring 2020, with Dr. Brigitte Baldi
+
+### Department of Cognitive Science, UC Irvine                           
+#### Guest Lecturer
+Sleep & Consciousness, Fall 2019, 2020
+
+Sleep & Memory, Spring 2020
+
+Sleep & Consciousness, Fall 2019
+
+#### Lab Instructor/ Teaching Assistant
+Advanced Experimental Psychology, Winter 2019, with Dr. Aaron Bornstein
+
+Computer-Based Research in Social Science, Fall 2018, with Dr. Paul Shirey
+
+Language and the Brain, Spring 2019, with Dr. Greg Hickok
+
+Psych Fundamentals, Summer 2019, with Dr. Alex Bower
+
+Sleep & Consciousness, Fall 2019, with Dr. Sara Mednick
+
+### Department of Psychology, National Chengchi University
+#### Lab Instructor/ Teaching Assistant
+Introduction to Eye Movements and Cognition, Spring 2016, with Dr. Jie-Li Tsai

@@ -1,0 +1,37 @@
+---
+title: "Education"
+description:
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Education
+### University of California, Irvine
+- **Ph.D. in Cognitive Science** (Sep 2017 – May 2022 Expected)
+  + Dissertation Title: Heart-brain Interaction during NREM Sleep Drives Sleep-dependent Memory Gains. (Advisor: Dr. Sara Mednick)
+  + Dissertation Committee: Dr. Julian Thayer, Dr. Bryce Mander, Dr. Susanne Jaeggi, Dr. Greg Hickok, Dr. Aaron Bornstein
+
+- **MS in Statistics** (Sep 2018 – June 2020)
+- **DTEI Certificate in Teaching Excellence Program** (Jul 2020 – Nov 2020)
+- **DTEI Course Design Certification Program** (Aug 2020)
+
+\newpage
+\newpage
+
+### National Chengchi University
+- **B.S. in Psychology** (Sep 2013 – July 2017)
+- **B.Ed. in Education** (Sep 2013 – July 2017)
+
+# Awards & Honors
+- DTEI Graduate Fellowship, University of California, Irvine, 2020-2021
+- Graduate Student Researcher Award, University of California, Irvine, 2017-2018
+- Graduate Teaching Assistant Award, University of California, Irvine, 2018-2022
+- Government Scholarship to Study Abroad, Ministry of Education, Taiwan, 2017–2019
+- Conference Travel Grant, University of California, Irvine, 2018
+- NVIDIA GPU Grant, NVIDIA Corporation 2017
+- Student of Honor for Presidential Award, National Chengchi University, 2014-2017
+- Honorary Member of the Phi Tau Phi Scholastic Honor Society, Taiwan, since 2017
+- Outstanding Graduating Award, National Chengchi University, 2017 
+- Dr. Fa-Mi Chen Memorial Scholarship, Taiwan, 2015

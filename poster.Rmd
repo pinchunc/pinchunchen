@@ -1,0 +1,21 @@
+---
+title: "Posters/ Peer-reviewed Abstracts"
+description: 
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Pin-Chun Chen (2020, Aug) Age Related Changes in Central Autonomic Couplings During Sleep. Poster presented at the Annual Meeting of the American Associated Professional Sleep Societies (Virtual)
+
+Pin-Chun Chen, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2019, Sep) Coupling of Autonomic and Central events during Sleep Boosts Working Memory in Healthy Young Adults. Poster presented at the Annual Meeting of the World Sleep Congress, Vancouver, BC, Canada
+
+Pin-Chun Chen, Negin Sattari, Lauren N. Whitehurst, and Sara C. Mednick (2019, June) Parasympathetic Activity during Sleep, but not Wake, Facilitates Working Memory Improvement: A Comparison of Young and Older Adults. Poster presented at the Annual Meeting of the World Sleep Congress, Vancouver, BC, Canada
+
+Pin-Chun Chen, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2019, June) Coupling of Autonomic and Central events during Sleep Boosts Working Memory in Healthy Young Adults. Poster presented at the Annual Meeting of the American Associated Professional Sleep Societies, San Antonio, TX, USA
+
+Pin-Chun Chen, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2018, April) A Daytime Nap Facilitates Working Memory in Healthy Young Adults. Poster presented at the Learning & Memory 2018, Huntington Beach, CA, USA
+
+Pin-Chun Chen, Ya-Wen Jan, and Chien-Ming Yang (2016, June). Discrepancy between Subjective and Objective Actigraphic Sleep Estimation for Individuals with Low and High Sleep Vulnerability. Poster presented at the Annual Meeting of the American Associated Professional Sleep Societies, Denver, CO, USA

@@ -1,0 +1,28 @@
+---
+title: "Students' Feedback"
+description:
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+My students in the experimental psychology bought me a brain specimen coaster set as a thank you gift at the end of the quarter. Very heart warming!
+
+```{r out.width="30%", fig.align='center', out.extra='style="background-color:#FF928B; padding:20px;"'}
+knitr::include_graphics(here::here("img/specimen.jpg"))
+```
+
+**Students’ comments on TA evaluations**
+
+*"Her strengths were having the students go into breakout rooms through zoom so that they can discuss with each other. She also had us think on our own why the answer choice we picked was the right one so that we wouldn’t just have the answers given to us. Her strength was making the students work on their own to develop better thinking skills."*
+
+*"Pin-Chun is a great TA. Literally the BEST TA I’ve ever had. She is extremely helpful, replies to questions through emails with no delay, and is very knowledgable about all the topics. She is awesome."*
+
+*"Pin-Chun creates an open environment during the discussion so students feel completely comfortable asking questions and collaborating, she works very hard and is always on time with grading."*
+
+*"She is such a nice person, and she is so helpful. Always there to answer your questions, whether in-person or by email. And visiting everyone during the lab sessions to make sure that they were all doing okay and didn’t have any questions really impressed me. I’ve never had a TA do that before."*
+
+*"She is very welcoming and approachable, which made me unafraid to ask her for help. She is very knowledgeable about the subject matter and was very communicative and responsive, both in and outside of class. Pin Chun was willing to discuss her personal research with us, which was very interesting to hear about and valuable information in assessing my own research interests."*
+
+*"She gave out really clear and organized instructions. I can tell that she wants everyone from the class to understand the material and do well in the class. She is a really nice person, easy to communicate and reach. One of the best TA at UCI!"*

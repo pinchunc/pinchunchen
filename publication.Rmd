@@ -1,0 +1,26 @@
+---
+title: "Publication"
+description:
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+[My Google Scholar Profile](https://scholar.google.com/citations?user=zhIGL70AAAAJ&hl=en)
+
+- **Pin-Chun Chen**, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2020) Autonomic activity during a daytime nap facilitates working memory improvement. *Journal of Cognitive Neuroscience*, [DOI: 10.1162/jocn_a_01588 ](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_01588)
+
+- **Pin-Chun Chen**, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2020) Autonomic/ central coupling during sleep boosts working memory in healthy adults. *Neurobiology of Learning and Memory*, [DOI: 10.1016/j.nlm.2020.107267](https://www.sciencedirect.com/science/article/abs/pii/S1074742720301118)
+
+- **Pin-Chun Chen**, Negin Sattari, Lauren N. Whitehurst, and Sara C. Mednick (2020) Age-related losses in cardiac autonomic activity during a daytime nap. *Psychophysiology*, [DOI: 10.1111/psyp.13701](https://onlinelibrary.wiley.com/doi/full/10.1111/psyp.13701)
+
+- **Pin-Chun Chen**, Katharine N Simon, Negin Sattari, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (*Under Review*) Age-related changes in autonomic-central coupling profiles during a daytime nap. [*Sleep*](https://www.biorxiv.org/content/10.1101/2020.09.22.297184v1)
+
+- **Pin-Chun Chen**, Lauren N. Whitehurst, and Sara C. Mednick (*In Prep*) Vagolytic effect of Zolpidem on Sleep-dependent Changes in Working Memory and Long-term Memory
+
+- Lauren N. Whitehurst, **Pin-Chun Chen**, Mohsen Naji, and Sara C. Mednick (2020) New directions in sleep and memory research: the role of autonomic activity. *Current Opinion in Behavioral Sciences*, [DOI: 10.1016/j.cobeha.2019.11.001](https://www.sciencedirect.com/science/article/pii/S235215461930110X)
+
+- Dong Joo Kim, Tze-An Yuan, **Pin-Chun Chen**, Feng Liu-Smith, Natasha Atanaskova Mesinkovska, Hege Grande Sarpa (2020) Pediatric Melanoma: An Institutional Cohort Study and National Epidemiological Data Provide Insights into a Growing Hispanic Population. *SSRN Electronic Journal*
+
+- Dong Joo Kim, Joy Makdisi, Christina Regan, **Pin-Chun Chen**, Elizabeth Chao, Adam M. Rotunda (2020) Reconstruction of distal nasal defects using free cartilage batten grafting with secondary intention healing: a retrospective case series of 129 patients *Dermatologic Surgery*

@@ -1,0 +1,31 @@
+---
+title: "Oral Presentations/ Invited Talks"
+description:
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Pin-Chun Chen (2020, Oct) Vagolytic effect of Zolpidem on Sleep-dependent Memory: A Trade-off between Working Memory and Long-term Memory. Speaker at the 2020 Neuromatch conference 3.0 (Virtual)
+
+Pin-Chun Chen (2020, Oct) Unsupervised Learning of Sleep Stages from Polysomnography (PSG) Data. 2nd Annual Computational Data Neuroscience Symposium (Virtual)
+
+Pin-Chun Chen (2020, Oct) Age-related Losses in Cardiac Autonomic Activity during a Daytime Nap. 2nd Annual Computational Data Neuroscience Symposium (Virtual)
+
+Pin-Chun Chen (2020, Aug) Coupling of Autonomic and Central events during Sleep Boosts Working Memory in Healthy Young Adults. Speaker at the 2020 Virtual Working Memory Symposium (Virtual)
+
+Pin-Chun Chen (2020, May) Cued memory reactivation during sleep influences skill learning. Guest lecture on Psych 129 Sleep & Memory at UCI, Irvine, CA, USA
+
+Pin-Chun Chen (2020, May) Autonomic-central couplings during Sleep Drives Sleep-dependent Working Memory Gains. Cognitive Science Advancement Talk at UCI, Irvine, CA, USA
+
+Pin-Chun Chen (2020, Jan) Autonomic-central couplings during Sleep Drives Sleep-dependent Working Memory Gains. Cognitive Science 3rd-year Talk at UCI, Irvine, CA, USA
+
+Pin-Chun Chen (2019, Nov) Age-related Sleep and Cognitive Declines: Sleep Disorders and Etiology. Guest lecture on Psych 121S Sleep & Consciousness at UCI, Irvine, CA, USA
+
+Pin-Chun Chen (2019, May) The Roles of Autonomic Activities during Sleep on Cognition. Speaker at the Spring Conference at UCI Center for the Neurobiology of Learning and Memory, Irvine, CA, USA
+
+Pin-Chun Chen (2019, Feb) Enhancing Working Memory by Closed-loop tACS during NREM Sleep. Concentration Exam Talk at UCI, Irvine, CA, USA
+
+Pin-Chun Chen (2017, Dec) Why Do We Sleep? The Impacts of Sleep on Emotion and Memory. Guest speaker at Academic Salon at Taiwanese Graduate Student Association at UCI, Irvine, CA, USA
