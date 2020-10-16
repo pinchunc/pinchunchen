@@ -15,11 +15,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - **MS in Statistics** (Sep 2018 – June 2020)
 - **DTEI Certificate in Teaching Excellence Program** (Jul – Nov 2020)
-- **DTEI Course Design Certification Program** (Aug 2020)
-- **DTEI Certificate in Remote Instruction** (July - Aug 2020) 
+- [**DTEI Course Design Certification Program**](https://raw.githubusercontent.com/pinchunc/certificates/013665983e1a91defe6ad0d849e24c195d680b8d/CDCP.pdf) (Aug 2020)
+- [**DTEI Certificate in Remote Instruction**](https://raw.githubusercontent.com/pinchunc/certificates/013665983e1a91defe6ad0d849e24c195d680b8d/CRI.pdf) (July - Aug 2020) 
+
+
 
 ```{r out.width = "60%"}
-knitr::include_graphics(here::here("img/CRI.pdf"))
+#knitr::include_graphics(here::here("img/CRI.pdf"))
 ```
 
 

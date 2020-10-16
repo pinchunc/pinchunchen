@@ -1,7 +1,6 @@
 name: "personal-website2"
-title: "My Website"
-description: |
-  My Website
+title: "Pin-Chun Chen"
+description:
 output_dir: "docs"
 navbar:
   search: true
