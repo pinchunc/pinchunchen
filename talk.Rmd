@@ -14,6 +14,8 @@ Pin-Chun Chen (2020, Oct) Unsupervised Learning of Sleep Stages from Polysomnogr
 
 Pin-Chun Chen (2020, Oct) Age-related Losses in Cardiac Autonomic Activity during a Daytime Nap. 2nd Annual Computational Data Neuroscience Symposium (Virtual)
 
+Pin-Chun Chen (2020, Oct) Spindles switch the sleeping brain from frontal lobe to hippocampal processing: a pharmacology study. Speaker at the CogSci Colloquium Flash Talks Series (Virtual)
+
 Pin-Chun Chen (2020, Aug) Coupling of Autonomic and Central events during Sleep Boosts Working Memory in Healthy Young Adults. Speaker at the 2020 Virtual Working Memory Symposium (Virtual)
 
 Pin-Chun Chen (2020, May) Cued memory reactivation during sleep influences skill learning. Guest lecture on Psych 129 Sleep & Memory at UCI, Irvine, CA, USA

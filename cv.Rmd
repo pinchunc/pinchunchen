@@ -1,0 +1,11 @@
+---
+title: "CV"
+description:
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<iframe src="img/CV_CHEN, PIN-CHUN.pdf" width="100%" height="100%">

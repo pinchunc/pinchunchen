@@ -13,8 +13,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Learn more about publishing to GitHub Pages at:
 # https://rstudio.github.io/distill/publish_website.html#github-pages
-
-
 ```
 
 Hello, I’m Pin-Chun. I am a Cognitive Science Ph.D. candidate at the University of California, Irvine, preparing to graduate sometime in 2021-2022. My research interests are sleep and cognition, including the role of aging, cardiac autonomic activity, and brain stimulation on sleep-dependent cognitive enhancement.

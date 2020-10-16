@@ -28,6 +28,10 @@ navbar:
           href: teaching.html
         - text: "Students' Feedback"
           href: student.html
+                
+    - text: "CV"
+      href: cv.html
+      
 output: 
   distill::distill_article:
     css: style.css

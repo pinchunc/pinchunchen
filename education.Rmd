@@ -14,8 +14,14 @@ knitr::opts_chunk$set(echo = FALSE)
   + Dissertation Committee: Dr. Julian Thayer, Dr. Bryce Mander, Dr. Susanne Jaeggi, Dr. Greg Hickok, Dr. Aaron Bornstein
 
 - **MS in Statistics** (Sep 2018 – June 2020)
-- **DTEI Certificate in Teaching Excellence Program** (Jul 2020 – Nov 2020)
+- **DTEI Certificate in Teaching Excellence Program** (Jul – Nov 2020)
 - **DTEI Course Design Certification Program** (Aug 2020)
+- **DTEI Certificate in Remote Instruction** (July - Aug 2020) 
+
+```{r out.width = "60%"}
+knitr::include_graphics(here::here("img/CRI.pdf"))
+```
+
 
 \newpage
 \newpage
