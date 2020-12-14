@@ -18,7 +18,10 @@ Psych Fundamentals, Summer 2020, with Dr. Megan Peters & Dr. Mike D’Zmura
 
 [Introduction to Biostatistics](http://catalogue.uci.edu/allcourses/stats/), Spring 2020, with Dr. Brigitte Baldi
 
-### Department of Cognitive Science, UC Irvine                           
+### Department of Cognitive Science, UC Irvine 
+#### Lecturer of Record
+Probability and Statistics, Summer 2021
+
 #### Guest Lecturer
 [Psychology of Sleep & Consciousness](http://catalogue.uci.edu/allcourses/psych/), Fall 2019, 2020
 
@@ -27,6 +30,8 @@ Sleep & Memory Topics, Spring 2020
 Sleep & Consciousness, Fall 2019
 
 #### Lab Instructor/ Teaching Assistant
+Probability and Statistics, Winter 2021
+
 [Advanced Experimental Psychology](http://catalogue.uci.edu/allcourses/psych/), Winter 2019, with Dr. Aaron Bornstein
 
 [Computer-Based Research in Social Science](http://catalogue.uci.edu/allcourses/soc_sci/), Fall 2018, with Dr. Paul Shirey

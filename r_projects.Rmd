@@ -8,7 +8,7 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### Shiny App Play Gomoku
+### Shiny App Play Gomoku [repository](https://github.com/stats295r-fa20/shiny-group2)
 <iframe src="https://pinchunchen.shinyapps.io/ggomoku/" width="100%" height="500px">
 </iframe>
 
