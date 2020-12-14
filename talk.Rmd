@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Sleep Interventions to Boost Memory. Guest lecture on Psych 121S Sleep & Consciousness at UCI (Virtual; 2020, Nov)
 
-- Vagolytic effect of Zolpidem on Sleep-dependent Memory: A Trade-off between Working Memory and Long-term Memory. Speaker at the 2020 Neuromatch conference 3.0 (Virtual; 2020, Oct)
+- [Vagolytic effect of Zolpidem on Sleep-dependent Memory: A Trade-off between Working Memory and Long-term Memory.](https://youtu.be/sdmTcvzz1VA) Speaker at the 2020 Neuromatch conference 3.0 (Virtual; 2020, Oct)
 
 - Unsupervised Learning of Sleep Stages from Polysomnography (PSG) Data. 2nd Annual Computational Data Neuroscience Symposium (Virtual; 2020, Oct)
 
