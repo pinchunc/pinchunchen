@@ -15,3 +15,49 @@ knitr::opts_chunk$set(echo = FALSE)
 ### R Package ggomoku [repository](https://github.com/pinchunc/ggomoku)
 
 ### R Markdown Paper [repository](https://github.com/stats295r-fa20/hw1-pinchunc/blob/main/Paper_PinChun.pdf)
+
+
+### Hacking Sleep for Better Memory Using Closed-loop tACS, individual project, Summer 2019 - Winter 2020                     
+- Implement an online sleep features detection algorithm that deliver electrical stimulation
+- Design and implemented memory tasks using Matlab
+- Perform EEG recording, electrical stimulation protocol, and analyzed behavioral and survey data using R
+- Conduct sleep scoring and power spectral analysis on sleep physiological data using Matlab
+
+
+### Comparing MANOVA Statistics Using Empirical Power Analysis, individual project, Spring 2019
+- Implement Pallai’s Trace, Wilk’s Lambda, Hotellings Trace, and Roys largest root in R
+- Use empirical powers to assess the performances of the four tests and compared these tests using different variance-covariance matrices and sample sizes using R
+
+
+### Wine Recognition using Multivariate Classification Methods, individual project, Spring 2019                
+- Duties: Implement principal component analysis (PCA), Fisher’s linear discriminant analysis (LDA), and quadratic discriminant analysis (QDA) in R to classify 3 types of wines with 13 constituents found in each wine.
+- Results: Classification accuracy above 95%
+
+
+### Using Time-Series Methods to Capture Eye-opening Brain States, individual project, Fall 2018                  
+- Implement spectral analysis, cross-correlation, and cross-spectra (coherency) to detect 
+eye-opening state by analyzing EEG data using R 
+
+
+### Alzheimer’s Disease Early Detection: Attrition Analysis and Retest Effects, individual project, Spring 2018       
+- Implement GLMs, linear mixed model, and generalized estimating equations on longitudinal data by using R
+
+
+### Unsupervised Sleep Stages Classification from PSG Data (EEG, EOG, EMG, ECG), team of 2, Fall 2017   
+- Duties: Implement covariance matrix, autoencoder, probabilistic modeling, and clustering using Python
+- Results: Won the NVIDIA GPU Grant
+
+
+### Neural Networks Modeling in Well-being Prediction with Wearable Sleep Data, individual project, Spring 2017 
+- Duties: Predict subjective sleep quality by implementing CNN, RNN, LSTM by using R and Python.
+- Results: Increased 30% explained variability in prediction after adding this model
+
+
+### Python Chatterbot, team of 4, Fall 2016                                              
+- Duties: Implement a chatterbot that can help people perform a variety of statistical analysis and plots
+- Results: Helped more than 30 students perform statistical analysis in their projects 
+
+
+### Media Violence and Real-World Aggression: An Eye-tracking Study, team of 2, Spring 2016
+- Duties: Design the experiment, and analyzed eye-movement data with Matlab and R 
+- Results: Demonstrate that media violence can increase 40% fixation time (attention) toward potential weapons 
