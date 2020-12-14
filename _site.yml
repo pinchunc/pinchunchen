@@ -31,6 +31,9 @@ navbar:
     - text: "CV"
       href: cv.html
       
+    - text: "Technical Projects"
+      href: r_projects.html
+      
 output: 
   distill::distill_article:
     css: style.css

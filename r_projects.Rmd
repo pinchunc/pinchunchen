@@ -1,0 +1,17 @@
+---
+title: "Technical Projects"
+description:
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Shiny App Play Gomoku
+<iframe src="https://pinchunchen.shinyapps.io/ggomoku/" width="100%" height="500px">
+</iframe>
+
+### R Package ggomoku [repository](https://github.com/pinchunc/ggomoku)
+
+### R Markdown Paper [repository](https://github.com/stats295r-fa20/hw1-pinchunc/blob/main/Paper_PinChun.pdf)
